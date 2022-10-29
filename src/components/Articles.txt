@@ -1,0 +1,289 @@
+[{
+  
+      "id": "business-standard",
+      "name": "Business Standard",
+      "url": "https://www.business-standard.com/",
+      "description": "Business News: Get the latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates.",
+      "category": [
+      "top",
+      "sports",
+      "technology",
+      "business",
+      "entertainment",
+      "health",
+      "politics"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "hindiwebnews24",
+      "name": "WebNews24",
+      "url": "https://hindi.webnews24.in/",
+      "description": "Independent. Irreverent. Intelligent. Webnews24.in delivers original reporting and sharp opinion in the arena of politics and power. Always skeptical but never cynical, The webnews24.in reaches more than thousands of viewers a day.",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "digpu_hindi",
+      "name": "Digpu Hindi",
+      "url": "https://hindi.digpu.com/",
+      "description": "डिग्पू पत्रकारिता के लिए एक अलग दृष्टिकोण रखता है। दैनिक समाचारों के अलावा, हम कश्मीर से शुरू होने वाले संघर्ष क्षेत्रों से एक विशेष संस्करण सकारात्मक समाचार श्रृंखला ‘ दिल-पजीर ‘ पर काम कर रहे हैं ।",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "aajtak",
+      "name": "Aaj Tak",
+      "url": "http://aajtak.in/",
+      "description": "AajTak: Hindi news (हिंदी समाचार) website, watch live tv coverages, Latest Khabar, Breaking news in Hindi of India, World, Sports, business, film and Entertainment. आज तक पर पढ़ें ताजा समाचार देश और दुनिया से, जाने व्यापार, बॉलीवुड, खेल और राजनीति के ख़बरें|",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "reviewminute",
+      "name": "Review Min",
+      "url": "https://reviewminute.com/",
+      "description": "Get the Latest news, photos and videos, breaking news with the live updates of latest happenings in the bollywood, business, sports and lot more.",
+      "category": [
+      "top",
+      "technology",
+      "business",
+      "science"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "abcrnews",
+      "name": "abcr NEWS",
+      "url": "https://www.abcrnews.com/",
+      "description": "It is an online news platform, which provides the latest breaking and trending news on various spheres of day to day life, such as politics, lifestyle, education, sports, local, and entertainment.",
+      "category": [
+      "top",
+      "sports",
+      "technology",
+      "business",
+      "entertainment",
+      "world"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "hindustantimes",
+      "name": "Hindustan Times",
+      "url": "http://www.hindustantimes.com",
+      "description": "News Headlines: Hindustan Times provides exclusive top stories of the day, today headlines from politics, business, technology, photos, videos, latest English news, and much more.",
+      "category": [
+      "sports",
+      "business",
+      "science",
+      "entertainment",
+      "health"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "hindinews18",
+      "name": "NEWS 18 HINDI",
+      "url": "https://hindi.news18.com/",
+      "description": "Hindi News: Read Breaking News, Live Samachar in Hindi of Business, Sports, India, Education, Bollywood, Watch Live Hindi News TV and more on News18 हिंदी. हिंदी समाचार की लोकप्रिय वेबसाइट पर देश, दुनिया, कारोबार, खेल, मनोरंजन से जुड़ी साडी खबरें विस्तार मैं पढ़े - News18 हिंदी",
+      "category": [
+      "top",
+      "sports",
+      "technology",
+      "business",
+      "entertainment",
+      "health",
+      "world"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "atulyaloktantranews",
+      "name": "AtulyaloktantraNews",
+      "url": "https://atulyaloktantranews.com/",
+      "description": "राष्ट्रीय सरोकार से परिपूर्ण समाचार पत्र",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "economictimes_indiatimes",
+      "name": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/",
+      "description": "Business news today: Read India Business news Live. Latest Business news and updates on Finance, share market, IPO, economy. Discover Business News Headlines, Top Financial News and more on The Economic Times",
+      "category": [
+      "top",
+      "sports",
+      "technology",
+      "business",
+      "science",
+      "entertainment",
+      "health",
+      "politics",
+      "environment"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "powersportz",
+      "name": "Power Sportz",
+      "url": "https://www.powersportz.tv/",
+      "description": "Power Sportz TV is India’s first popular digital sport news channel Live offering a glut of information containing latest sports news and live debates online. We deliver sports infotainments to our viewers the way no one ever did.",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "ndtv_in",
+      "name": "NDTV",
+      "url": "https://www.ndtv.in",
+      "description": "Its channels NDTV 24x7 (English), NDTV India (Hindi) and India’s first ever 2-in-1 channel NDTV Profit-NDTV Prime (Business and Infotainment) continue to raise the standards of journalism with innovative programming and uncompromising integrity.",
+      "category": [
+      "top",
+      "sports",
+      "business",
+      "entertainment",
+      "world"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "thewire",
+      "name": "The Wire",
+      "url": "https://thewire.in/",
+      "description": "Get the latest news, top headlines, opinions, analysis and much more from India and World including current news headlines on elections, politics, economy, business, science, culture on The Wire.",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "reuters",
+      "name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "description": "Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "united states of america",
+      "united kingdom",
+      "india",
+      "australia",
+      "singapore",
+      "saudi arabia",
+      "canada"
+      ]
+      },
+      {
+      "id": "toi",
+      "name": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com",
+      "description": "Top News in India: Read Latest News on Sports, Business, Entertainment, Blogs, and Opinions from leading columnists. Times of India brings the Breaking News and Latest News Headlines from India and around the World.",
+      "category": [
+      "sports",
+      "technology",
+      "business",
+      "science",
+      "entertainment",
+      "health"
+      ],
+      "language": [
+      "english"
+      ],
+      "country": [
+      "india"
+      ]
+      },
+      {
+      "id": "nayalook",
+      "name": "NayaLook",
+      "url": "https://www.nayalook.com/",
+      "description": "New Media New Vision - नया लुक | Naya Look | हिंदी न्यूज़ | Hindi news | ताजा ख़बरें | Lates News in UP | नया लुक",
+      "category": [
+      "top"
+      ],
+      "language": [
+      "hindi"
+      ],
+      "country": [
+      "india"
+      ]
+            
+    }]
